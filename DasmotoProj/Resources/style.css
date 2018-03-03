@@ -1,0 +1,50 @@
+/* Main Title Font Properties */
+
+h1 {
+  font-family: Helvetica;
+  font-size: 100px;
+  font-weight: bold;
+  color: khaki;
+}
+
+p {
+  font-family: Helvetica;
+}
+
+/* Header Properties */
+
+.header {
+  text-align: center;
+  background-image: url('https://s3.amazonaws.com/codecademy-content/courses/freelance-1/unit-2/pattern.jpeg');
+}
+
+/* Font Change for Paragraphs */
+
+font {
+  font-family: Helvetica;
+  font-weight: bold;
+  color: blue;
+}
+/* Section Headers */
+
+h2.brushes {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: mediumspringgreen;
+}
+h2.frames {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: lightcoral;
+}
+h2.paint {
+  font-family: Helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: white;
+  background-color: skyblue;
+}
